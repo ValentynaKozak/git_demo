@@ -13,4 +13,7 @@ line6 line6
 
 line7 line7
 
+
 master line for conflict
+
+feature line for conflict
