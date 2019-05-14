@@ -17,3 +17,5 @@ line7 line7
 master line for conflict
 
 feature line for conflict
+
+new tag in master
